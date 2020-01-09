@@ -1,0 +1,5 @@
+This script was developed for Integration needs. After it's execution SQLite DB will be created and specified folder will be copied into new created directory result_data.
+To use this sctipt properly command line interpreter application shall be opened. There shall be specified script name with resolution (with or without path depends on the directory in which command line was opened) and argument which represent id value from the data.csv file.
+
+Example:
+F:\TestTask>task.py 456
